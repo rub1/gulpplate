@@ -1,0 +1,11 @@
+{
+  "name": "gulp",
+  "version": "0.0.1",
+  "author": "Ruben Leikarnes",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-ruby-sass": "^2.0.6",
+    "browser-sync": "^2.10.0"
+  },
+  "private": true
+}
